@@ -79,6 +79,9 @@ module "mysql_flexible" {
 
 Refer [examples](https://github.com/squareops/terraform-azurerm-mysql/tree/main/examples/complete) for more details
 
+
+## Permissions
+
 Required permissions to create resources from this module are mentioned [here](https://github.com/squareops/terraform-azurerm-mysql/tree/main/roles.md)
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
